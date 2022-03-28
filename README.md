@@ -1,4 +1,4 @@
-# Olá😀 Eu sou a Rosangela Sarachi!
+## Olá😀 Eu sou a Rosangela Sarachi!
 
 ### Estudante dos cursos HTML5, CSS3 e JavaScript💻
 
