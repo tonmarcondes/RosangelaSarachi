@@ -15,5 +15,4 @@
   
   ## ![Rosangela Sarachi GitHub stats](https://github-readme-stats.vercel.app/api?username=RosangelaSarachi&show_icons=true&theme=cobalt)
 
-![HTML,CSS e JAVASCRIPT](https://pngimage.net/wp-content/uploads/2018/06/html-css-png-2.png)
 ![HTML](https://logospng.org/download/html-5/logo-html-5-256.png)
